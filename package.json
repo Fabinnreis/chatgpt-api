@@ -1,0 +1,23 @@
+{
+  "name": "chatgpt-api",
+  "version": "1.0.0",
+  "description": "Api that connect with open ai chat gpt api",
+  "main": "chatgpt-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabinnreis/chatgpt-api.git"
+  },
+  "keywords": [
+    "chatgpt",
+    "openai"
+  ],
+  "author": "Fábio Reis Francisco Das Chagas",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Fabinnreis/chatgpt-api/issues"
+  },
+  "homepage": "https://github.com/Fabinnreis/chatgpt-api#readme"
+}
